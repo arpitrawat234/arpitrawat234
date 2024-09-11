@@ -19,6 +19,12 @@
  
  Feel free to contact me I would be very glad to talk. 🤝
 
+
+
+ MY LEETCODE👇
+ 
+🔗[<img src="https://leetcode.card.workers.dev/whyareyoureadingmyusername?theme=dark&font=&extension=null">](https://leetcode.com/u/Whyareyoureadingmyusername/)
+
  
  MY SOCIALS 👇
 
