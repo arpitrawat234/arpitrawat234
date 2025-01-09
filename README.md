@@ -23,7 +23,7 @@
 
  MY LEETCODE👇
  
-[<img src="https://leetcode-stats.vercel.app/api?username=whyareyoureadingmyusername&theme=Mist">][https://leetcode.com/u/Whyareyoureadingmyusername/]
+[<img src="https://leetcode-stats.vercel.app/api?username=whyareyoureadingmyusername&theme=Mist">](https://leetcode.com/u/Whyareyoureadingmyusername/)
 
  
  MY SOCIALS 👇
